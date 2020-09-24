@@ -1,0 +1,16 @@
+{
+  "name": "webpack-public-resource-aliyun-oss-plugin",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/hookszhang/webpack-public-resource-aliyun-oss-plugin.git",
+  "author": "Hooks Zhang",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "aliyun",
+    "oss"
+  ],
+  "dependencies": {
+    "underscore": "^1.11.0"
+  }
+}
